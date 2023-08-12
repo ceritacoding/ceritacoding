@@ -1,4 +1,4 @@
-# Hi, I'm Ghazy 👋
+# Hi 👋, I'm Ghazy
 
 > I am an enthusiastic high school student pursuing a Software Engineering path with a specialization in Frontend Development.
 > My journey in the tech world began with an unquenchable curiosity and desire to create visually appealing and user-friendly digital experiences.
