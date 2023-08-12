@@ -1,4 +1,5 @@
 # Hi, I'm Ghazy 👋
 
-> I'm a frontend developer from Indonesia, currently I'm focusing on learning
-> several frameworks such as Nextjs, Flutter, Express and others
+> I am an enthusiastic high school student pursuing a Software Engineering path with a specialization in Frontend Development.
+> My journey in the tech world began with an unquenchable curiosity and desire to create visually appealing and user-friendly digital experiences.
+> Currently deep into my studies, I am diligently honing my skills in various frameworks including Next.js and Flutter.
