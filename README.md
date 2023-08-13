@@ -7,7 +7,7 @@
 </br>
 
 > [!IMPORTANT]
->  Don't forget to follow my social media </br>
+>  Don't forget to follow my social media account </br>
 > [Instagram](https://instagram.com/xylviet) |
 > [Youtube](https://youtube.com/@xylviet) |
 > [Twitter](https://Twitter.com/xylviet) |
